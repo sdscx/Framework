@@ -554,7 +554,6 @@
 				2229C2A318B555CE00566C72 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 		2229C2A418B555CE00566C72 /* Build configuration list for PBXNativeTarget "UIControlDevAppTests" */ = {
 			isa = XCConfigurationList;
@@ -563,7 +562,6 @@
 				2229C2A618B555CE00566C72 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
